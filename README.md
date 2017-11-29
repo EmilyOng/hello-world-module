@@ -1,4 +1,4 @@
-#Hello-World-Module
+Hello-World-Module
 =========
 
 A small library that returns Hello World to console
